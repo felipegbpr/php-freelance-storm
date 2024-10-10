@@ -15,7 +15,6 @@ FreelanceStorm é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde 
   <img alt="Preview do projeto desenvolvido." src="https://github.com/felipegbpr/assets/blob/main/freelance-storm-image-1.png" width="80%">
     <br />
     <br />
-    <br />
   <img alt="Preview do projeto desenvolvido." src="https://github.com/felipegbpr/assets/blob/main/freelance-storm-image-2.png" width="80%">
 </p>
 
