@@ -29,4 +29,4 @@ FreelanceStorm é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde 
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](https://github.com/felipegbpr/php-freelance-storm/blob/main/LICENSE) para mais detalhes.
